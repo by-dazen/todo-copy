@@ -1,1 +1,0 @@
-This is just a todo program copy since I found it while looking for things to code. Warning: If you run "cargo install --path ." it's going to be named "todo" instead of "todo-copy".
